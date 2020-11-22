@@ -1,2 +1,2 @@
-# industrifarmasi
-industrifarmasi
+# pharmaceutical
+pharmaceutical
